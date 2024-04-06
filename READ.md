@@ -57,7 +57,7 @@ This can also be tested with curl, Postman, or directly from the Swagger UI.
 
 Notes:
 
-1. Make sure to replace `https://yourrepositorylink.git` with the actual URL of your GitHub repository and adjust any paths or commands according to your project's structure.
+1. Make sure to replace `https://yourrepositorylink.git` with the actual URL of your GitHub repository and adjust any paths or commands according to your project's structure..
 
 
 ```
