@@ -6,6 +6,8 @@ import httpx
 
 app = FastAPI()
 
+# base model code
+
 
 class PasswordRequest(BaseModel):
     length: int
